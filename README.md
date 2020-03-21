@@ -1,2 +1,2 @@
-#ATM SIMULATOR
+#ATMSIMULATOR
 C project
